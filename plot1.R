@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Assignment 2 - Q. #1
-# Santosh Kumar SINHA May 23, 2014
+# Santosh Kumar SINHA May 25, 2014
 
 # Loading provided datasets - loading from local machine
 NEI <- readRDS("~/Exploratory_Data_Analysis/Assignment_2/summarySCC_PM25.rds")
